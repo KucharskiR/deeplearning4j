@@ -154,7 +154,7 @@ information regarding copyright ownership.
             <version>${javacv.version}</version>
         </dependency>
 
-        <!-- Test dependency. Ignore for your own application. -->
+        <!-- Test dependency. Ignore for your own application. 
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-engine</artifactId>
@@ -168,7 +168,7 @@ information regarding copyright ownership.
             <version>${junit.version}</version>
             <scope>test</scope>
         </dependency>
-
+			-->
 
 
     </dependencies>
